@@ -1,0 +1,11 @@
+{
+  "name": "orchestra",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "start:app1": "yarn --cwd ./app-1 start",
+    "start:app2": "yarn --cwd ./app-2 start",
+    "start:container": "yarn --cwd ./container start"
+  }
+}

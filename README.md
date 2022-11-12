@@ -7,6 +7,6 @@ Initital setup based on https://ogzhanolguncu.com/blog/micro-frontends-with-modu
 
 # How to start
 Run the following in three seperate windows:
-- yarn start:app1
-- yarn start:app2
-- yarn start:container
+- `yarn start:app1`
+- `yarn start:app2`
+- `yarn start:container`

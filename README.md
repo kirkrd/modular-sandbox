@@ -10,3 +10,6 @@ Run the following in three seperate windows:
 - `yarn start:app1`
 - `yarn start:app2`
 - `yarn start:container`
+
+
+Don't forget to run `yarn install` inside each respective folder!
